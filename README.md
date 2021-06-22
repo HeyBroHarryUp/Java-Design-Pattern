@@ -7,3 +7,6 @@
 - 패키지 명은 Design Pattern의 이름으로 작성하며, 끝에 pattern은 작성하지 않는다.
 > abstractfactory (O)  
 > abstractfactorypattern (X)
+
+## Learned Design Patterns
+- `추상 팩토리 패턴(Abstract Factory Pattern)`

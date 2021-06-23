@@ -17,4 +17,9 @@ public class Computer {
         computerFactory.getMouse();
     }
 
+    public void getComputerUseEnum(BrandType brand) {
+        brand.getComputerFactory().getKeyboard();
+        brand.getComputerFactory().getMouse();
+    }
+
 }

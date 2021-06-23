@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Computer computer = new Computer();
         computer.getComputer(BrandType.APPLE);
+        computer.getComputerUseEnum(BrandType.SAMSUNG);
     }
 
 }

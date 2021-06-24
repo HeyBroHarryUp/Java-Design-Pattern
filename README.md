@@ -14,4 +14,5 @@
 ## Learned Design Patterns
 
 - `추상 팩토리 패턴(Abstract Factory Pattern)`
+- `팩토리 메서드 패턴(Factory Method Pattern)`
 - `빌더 패턴(Builder Pattern)`

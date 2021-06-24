@@ -1,12 +1,11 @@
 package com.harrybro.designpattern.abstractfactory.computer.factory;
 
-import com.harrybro.designpattern.abstractfactory.computer.keyboard.Keyboard;
-import com.harrybro.designpattern.abstractfactory.computer.mouse.Mouse;
+import com.harrybro.designpattern.abstractfactory.computer.Computer;
 
-public interface ComputerFactory {
+public class ComputerFactory {
 
-    Keyboard getKeyboard();
-
-    Mouse getMouse();
+    public static Computer getComputer(ComputerBrandType brand) {
+        return brand.getFactory().getComputer();
+    }
 
 }

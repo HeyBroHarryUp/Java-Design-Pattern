@@ -18,3 +18,4 @@
 - `빌더 패턴(Builder Pattern)`
 - `프로토타입 패턴(Prototype Pattern)`
 - `싱글톤 패턴(Singleton Pattern)`
+- `어댑터 패턴(Adapter Pattern)`

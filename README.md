@@ -13,9 +13,15 @@
 
 ## Learned Design Patterns
 
+### Creation Design Patterns
+
 - `추상 팩토리 패턴(Abstract Factory Pattern)`
 - `팩토리 메서드 패턴(Factory Method Pattern)`
 - `빌더 패턴(Builder Pattern)`
 - `프로토타입 패턴(Prototype Pattern)`
 - `싱글톤 패턴(Singleton Pattern)`
+
+### Structural Design Patterns
+
 - `어댑터 패턴(Adapter Pattern)`
+- `브릿지 패턴(Bridge Pattern)`

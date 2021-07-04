@@ -26,3 +26,4 @@
 - `어댑터 패턴(Adapter Pattern)`
 - `브릿지 패턴(Bridge Pattern)`
 - `컴포지트 패턴(Composite Pattern)`
+- `데코레이터 패턴(Decorator Pattern)`

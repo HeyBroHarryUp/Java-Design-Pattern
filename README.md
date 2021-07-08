@@ -28,3 +28,4 @@
 - `컴포지트 패턴(Composite Pattern)`
 - `데코레이터 패턴(Decorator Pattern)`
 - `파사드 패턴(Facade Pattern)`
+- `플라이웨이트 패턴(Flyweight Pattern)`

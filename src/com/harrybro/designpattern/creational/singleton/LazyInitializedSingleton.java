@@ -8,7 +8,7 @@ public class LazyInitializedSingleton {
     }
 
     public static LazyInitializedSingleton getInstance() {
-        return instance == null ? new LazyInitializedSingleton() : instance;
+        return instance == null ? instance = new LazyInitializedSingleton() : instance;
     }
 
 }
